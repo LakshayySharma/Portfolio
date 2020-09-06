@@ -1,5 +1,6 @@
 html{
     scroll-behavior: smooth;
+    text-align:center;
 }
 #title{
     background: #222831;
@@ -29,9 +30,7 @@ img{
 .prop{
     background:#222831;
 }
-h2{
-    /* margin-top: 30px; */
-}
+
 h5{
     margin-top: 10px;
 }
@@ -52,4 +51,10 @@ h5{
     height: 80px;
     width:80px
 }
+nav{
+    text-align: right;
+}
+.nav-item button{
+    width:100px;
 
+}
